@@ -8,8 +8,8 @@ Install dependencies and run
 ```
 # pip3 -r requirements.txt
 # python3 web-shell-check.py -u http://test.app
-[INFO] Star scanning http://127.0.0.1/
-[SUCCESS] Web-shell found on http://127.0.0.1/xx.php
-[INFO] Done scanning http://127.0.0.1/
+[INFO] Star scanning http://test.app/
+[SUCCESS] Web-shell found on http://test.app/xx.php
+[INFO] Done scanning http://test.app/
 ```
 
